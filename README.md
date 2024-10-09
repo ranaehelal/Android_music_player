@@ -25,7 +25,7 @@ An Android music player application with a user-friendly interface for playing, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ranaehelal/android-music-player-app.git
+   git clone https://github.com/ranaehelal/Android-music-player.git
    ```
 2. **Open in Android Studio**:
    - Launch Android Studio and select **Open an Existing Project**.
