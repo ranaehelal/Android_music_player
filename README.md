@@ -9,6 +9,9 @@ An Android music player application with a user-friendly interface for playing, 
 - **Next/Previous Navigation**: Navigate through the playlist to play the next or previous song.
 - **Album Art and Song Titles**: Display album art and song titles for the current track.
 - **Shuffle and Repeat Buttons**: Icons are included for shuffle and repeat functionality (yet to be implemented).
+## Screenshots
+<img src="1.png" alt="Main Screen" width="250" height="450"> <img src="2.png" alt="Lucky Number Screen" width="250" height="450"> 
+
 
 ## Technologies Used
 
